@@ -7,4 +7,9 @@ In this repository , I  push my leetcode problem solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KBCODx/leetcode_solution/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KBCODx/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KBCODx/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

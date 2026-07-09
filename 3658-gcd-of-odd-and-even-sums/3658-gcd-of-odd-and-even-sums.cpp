@@ -10,13 +10,17 @@ public:
             y += 2;
         }
 
+        return gcd(sumodd, sumeven);
+
+        // OTHER APPORACH WITHOUT BUILT IN FUCNTION
+        // int result;
         // for (i = 1; i <= min(sumodd, sumeven); i++) {
 
         //     if (sumodd % i == 0 && sumeven % i == 0) {
-        //         gcd = i;
+        //         result = i;
         //     }
         // }
 
-        return gcd(sumodd,sumeven);
+        // return result;
     }
 };

@@ -33,4 +33,12 @@ In this repository , I  push my leetcode problem solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KBCODx/leetcode_solution/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/KBCODx/leetcode_solution/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/KBCODx/leetcode_solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
